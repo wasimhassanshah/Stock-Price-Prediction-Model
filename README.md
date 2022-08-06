@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-Model
+# Stock-Price-Prediction-Model-Regression
 Linear Regression model and a Decision Tree Regression Model to Predict Apple’s Stock Price
 
 # Model
